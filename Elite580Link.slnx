@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Elite580Link.Core/Elite580Link.Core.csproj" />
+    <Project Path="src/Elite580Link.Infrastructure/Elite580Link.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Elite580Link.Tests/Elite580Link.Tests.csproj" />
+  </Folder>
+</Solution>
